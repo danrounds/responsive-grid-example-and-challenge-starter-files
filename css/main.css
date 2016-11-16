@@ -10,11 +10,16 @@ main .row {
   height: 200px;
   text-align: center;
   padding-top: 30px;
+  font-family: monospace;
+  font-size: 30px;
+  color: white;
+  text-shadow: -1px 0 black, 1px 0 black, 0 -1px black, 0 1px black;
+  padding-top: 80px;
 }
+
 
 .black {
   background-color: black;
-  color: white;
 }
 
 .green {
